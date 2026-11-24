@@ -21,6 +21,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: MrMVC
+          SETTING_JSON: mrmvc-theme.json
 
       - name: Update contribution graph
         run: |
