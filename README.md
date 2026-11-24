@@ -32,7 +32,7 @@ intelligent automation solutions.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php&theme=dark" />
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
@@ -44,7 +44,7 @@ intelligent automation solutions.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrMVC&show_icons=true&hide_border=true&hide_rank=true&bg_color=09070F&title_color=A855F7&text_color=E9D5FF&icon_color=D946EF" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MrMVC&show_icons=true&hide_border=true&hide_rank=true&bg_color=09070F&title_color=A855F7&text_color=E9D5FF&icon_color=D946EF" width="50%" />
 
 </div>
 
