@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner v2.png" alt="MrMVC Banner" width="100%" />
+<img src="./mrmvc-matrix.svg" alt="MrMVC" width="100%" />
 
 **Software Development · AI · Automation**
 
