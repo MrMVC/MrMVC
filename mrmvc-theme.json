@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-mrmvc.svg",
+  "backgroundColor": "#09070F",
+  "foregroundColor": "#E9D5FF",
+  "strongColor": "#C084FC",
+  "weakColor": "#6B5580",
+  "radarColor": "#A855F7",
+  "growingAnimation": true,
+  "contribColors": [
+    "#1C122B",
+    "#3B1764",
+    "#6B21A8",
+    "#9333EA",
+    "#D8B4FE"
+  ]
+}
