@@ -1,0 +1,36 @@
+name: MrMVC Contribution Snake
+
+on:
+  schedule:
+    - cron: "30 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Generate MrMVC Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: MrMVC
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            assets/mrmvc-snake.svg?palette=github-dark&color_snake=#D946EF&color_dots=#1C122B,#3B1764,#6B21A8,#9333EA,#D8B4FE
+
+      - name: Update snake animation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/mrmvc-snake.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update contribution snake"
+            git push
+          fi
