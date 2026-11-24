@@ -55,3 +55,12 @@ automation and digital experiences.
 <img src="./profile-3d-contrib/profile-mrmvc.svg" alt="MrMVC 3D Contributions" width="100%" />
 
 </div>
+---
+
+### Contribution Snake
+
+<div align="center">
+
+<img src="./assets/mrmvc-snake.svg" alt="MrMVC Contribution Snake" width="100%" />
+
+</div>
