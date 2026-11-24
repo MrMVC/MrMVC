@@ -45,3 +45,13 @@ automation and digital experiences.
 **Always learning. Always building.**
 
 </div>
+
+---
+
+### 3D Contribution Activity
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-mrmvc.svg" alt="MrMVC 3D Contributions" width="100%" />
+
+</div>
