@@ -2,65 +2,78 @@
 
 <img src="./mrmvc-matrix.svg" alt="MrMVC" width="100%" />
 
-**Software Development · AI · Automation**
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=A855F7&center=true&vCenter=true&width=650&lines=Software+Development;Artificial+Intelligence;Intelligent+Automation;Build.+Innovate.+Evolve.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### 01 / About
+
+Independent developer based in Vienna, Austria.
+
+Passionate about building modern digital experiences,
+exploring artificial intelligence and developing
+intelligent automation solutions.
+
+**Current focus**
+
+- Web Development & Modern Interfaces
+- AI Solutions & Workflow Automation
+- Creative Engineering & AI Video Production
+
+---
+
+### 02 / Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php&theme=dark" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+### 03 / GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MrMVC&show_icons=true&hide_border=true&hide_rank=true&bg_color=09070F&title_color=A855F7&text_color=E9D5FF&icon_color=D946EF" width="70%" />
+
+</div>
+
+---
+
+### 04 / Contribution Activity
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-mrmvc.svg" alt="3D Contribution Activity" width="100%" />
+
+</div>
+
+---
+
+### 05 / Contribution Matrix
+
+<div align="center">
+
+<img src="./assets/mrmvc-snake.svg" alt="Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
 
 `BUILD. INNOVATE. EVOLVE.`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=999999&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Exploring+Artificial+Intelligence;Engineering+the+Future)](https://git.io/typing-svg)
-
-</div>
-
----
-
-### About me
-
-Independent developer based in Vienna, Austria.
-Focused on modern software, artificial intelligence,
-automation and digital experiences.
-
-### Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-### GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MrMVC&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMVC&layout=compact&theme=github_dark&hide_border=true" width="40%" />
-
-</div>
-
----
-
-<div align="center">
-
-**Always learning. Always building.**
-
-</div>
-
----
-
-### 3D Contribution Activity
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-mrmvc.svg" alt="MrMVC 3D Contributions" width="100%" />
-
-</div>
----
-
-### Contribution Snake
-
-<div align="center">
-
-<img src="./assets/mrmvc-snake.svg" alt="MrMVC Contribution Snake" width="100%" />
+**MrMVC**
 
 </div>
