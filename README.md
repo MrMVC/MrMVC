@@ -1,6 +1,6 @@
 <div align="center">
 
-# M r M V C
+<img src="./banner.png" alt="MrMVC Banner" width="100%" />
 
 **Software Development · AI · Automation**
 
